@@ -1,0 +1,345 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 6,
+    "total_pages": 1,
+    "data": [
+        {
+            "tree_id": "1",
+            "botanical_name": "Aloe vera",
+            "common_name": ["Aloe", "Burn Plant", "Lily of the Desert"],
+            "Habitat": [
+                "Aloe vera is native to the Arabian Peninsula but is now cultivated in various tropical and subtropical regions worldwide.",
+                "It thrives in arid, dry climates and is commonly found in regions such as North Africa, Southern Europe, India, and the Americas"
+            ],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Aloe Vera, known as 'Ghritkumari' in Ayurveda, has been used for thousands of years for its cooling and healing properties.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        },
+        {
+            "tree_id": "2",
+            "botanical_name": "Amruta Balli",
+            "common_name": ["Amruta Balli"],
+            "Habitat": ["Same habitat description as Aloe vera"],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Amruta Balli has been known for its medicinal properties for centuries.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        },
+        {
+            "tree_id": "3",
+            "botanical_name": "Raktachandini",
+            "common_name": ["Raktachandini"],
+            "Habitat": ["Same habitat description as Aloe vera"],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Raktachandini has a long history of use in traditional medicine for its healing properties.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        },
+        {
+            "tree_id": "4",
+            "botanical_name": "Jasmine",
+            "common_name": ["Jasmine"],
+            "Habitat": ["Same habitat description as Aloe vera"],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Jasmine has been prized for its fragrant flowers and medicinal properties in various cultures.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        },
+        {
+            "tree_id": "5",
+            "botanical_name": "Brahmi",
+            "common_name": ["Brahmi"],
+            "Habitat": ["Same habitat description as Aloe vera"],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Brahmi has been used for centuries in Ayurveda for its cognitive and health benefits.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        },
+        {
+            "tree_id": "6",
+            "botanical_name": "Pomegranate",
+            "common_name": ["Pomegranate"],
+            "Habitat": ["Same habitat description as Aloe vera"],
+            "images_plants": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "images_leaves": {
+                "img_1": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_2": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_3": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg",
+                "img_4": "https://i.postimg.cc/ryYnLtxd/20231011-145053.jpg"
+            },
+            "medical_use": {
+                "Ayurveda": [
+                    "Enhances skin health by soothing burns, cuts, and abrasions",
+                    "Improves digestive health by alleviating constipation and improving gut flora"
+                ],
+                "Yoga_Naturopathy": [
+                    "Used to promote hydration and healing of the skin",
+                    "Applied as a cooling agent to reduce inflammation and irritation"
+                ],
+                "Unani": [
+                    "Used to treat skin disorders and burns due to its cooling and soothing effects",
+                    "Applied to wounds and ulcers for faster healing"
+                ],
+                "Siddha": [
+                    "Treats various skin conditions and infections due to its antimicrobial properties",
+                    "Used in formulations to alleviate digestive problems and improve appetite"
+                ],
+                "Homeopathy": [
+                    "Used for treating skin irritations, burns, and abrasions with its soothing properties",
+                    "Administered to relieve digestive disturbances such as constipation and bloating"
+                ]
+            },
+            "history": "Pomegranate has been revered for its medicinal properties and cultural significance throughout history.",
+            "methods_of_cultivation": {
+                "Soil_requirements": [
+                    "Prefers well-drained, sandy or loamy soil",
+                    "Soil pH should be between 6.0 and 7.0"
+                ],
+                "Climate": [
+                    "Thrives in warm climates with temperatures ranging from 20°C to 30°C",
+                    "Requires minimal rainfall and can tolerate dry conditions"
+                ],
+                "Planting": [
+                    "Propagated through seeds or offsets",
+                    "Space plants about 30-45 cm apart to accommodate growth"
+                ]
+            }
+        }
+    ],
+    "support": {
+        "url": "https://example.com/support",
+        "text": "Support us by contributing to our project!"
+    }
+}
